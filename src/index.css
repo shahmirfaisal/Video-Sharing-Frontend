@@ -39,5 +39,5 @@ button {
 }
 
 .sidebar {
-  grid-area: none;
+  grid-area: none !important;
 }

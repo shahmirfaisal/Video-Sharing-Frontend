@@ -1,0 +1,21 @@
+.description {
+    max-height: 1.1rem;
+    overflow: hidden;
+}
+
+.description.descriptionReadMore {
+    max-height: 10000rem;
+}
+
+.readMore {
+    margin-top: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.9rem;
+    opacity: 0.7;
+}
+
+.readMore:hover {
+    text-decoration: underline;
+}
